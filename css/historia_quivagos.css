@@ -148,21 +148,7 @@ main {
   max-width: 800px;
   margin: 0 auto;
 }
-.contenido-home a {
-  display: inline-block;
-  margin-top: 2rem;
-  color: #dbc29a;
-  text-decoration: none;
-  font-size: 1.6rem;
-  border-radius: 5px;
-  padding: 0.5rem 1rem;
-  background-color: rgba(0, 0, 0, 0.5);
-  transition: transform 0.3s ease, background-color 0.3s ease;
-}
-.contenido-home a:hover {
-  transform: scale(1.05);
-  background-color: rgba(0, 0, 0, 0.7);
-}
+
 .imagenes-habitaciones {
     width: 100%;
     max-width: 1000px;
